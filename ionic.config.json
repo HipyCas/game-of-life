@@ -1,0 +1,7 @@
+{
+  "name": "game-of-life",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
